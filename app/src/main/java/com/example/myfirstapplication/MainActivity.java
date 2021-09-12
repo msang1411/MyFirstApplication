@@ -29,6 +29,7 @@ public class MainActivity extends AppCompatActivity {
     EditText editTextNum2;
     Button buttonOK;
     String result;
+    String hihi;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
